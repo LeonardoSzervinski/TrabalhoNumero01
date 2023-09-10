@@ -27,7 +27,7 @@ No exemplo a seguir, observe que os atributos da aluna Maria Oliveira são (555)
 - Maria Oliveira, (555) 123-4567, Direito, 9.0, 9.3
 
 
-## Arquivo SituacaoFinal.csv
+## Arquivo DadosEntrada.csv e Arquivo Gerado SituacaoFinal.csv
 
 ![image](https://github.com/LeonardoSzervinski/TrabalhoNumero01/assets/99694844/f6e1259d-439f-45e2-9016-6d3c88588669)
 
