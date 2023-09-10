@@ -27,9 +27,14 @@ No exemplo a seguir, observe que os atributos da aluna Maria Oliveira são (555)
 - Maria Oliveira, (555) 123-4567, Direito, 9.0, 9.3
 
 
-## Resultado
+## Arquivo SituacaoFinal.csv
 
 ![image](https://github.com/LeonardoSzervinski/TrabalhoNumero01/assets/99694844/f6e1259d-439f-45e2-9016-6d3c88588669)
+
+## Terminal executavél do programa
+
+![image](https://github.com/LeonardoSzervinski/TrabalhoNumero01/assets/99694844/c85fef01-010c-4d4a-9645-1bc29a81c723)
+
 
 <hr>
 BACHARELADO EM ENGENHARIA DE SOFTWARE
